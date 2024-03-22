@@ -5,15 +5,15 @@ I used unsupervised learning model (Kmeans) for this dataset. Model seperated in
 
 What was done in the project?
 
-EDA (Exploratory Data Analysis)
+-EDA (Exploratory Data Analysis)
 
-Feature engineering
+-Feature engineering
 
-Visualization
+-Visualization
 
-Using Kmeans
+-Using Kmeans
 
-Testing
+-Testing
 
 Such datasets and projects aim to determine their customer type for company.
 
