@@ -1,4 +1,6 @@
-Customer Segmentation Project 
+Customer Segmentation Project
+
+
 I used unsupervised learning model (Kmeans) for this dataset. Model seperated into 3 clusters  based that how much money customer spend and  how many time shop from that company.
 What was done in the project?
 EDA (Exploratory Data Analysis)(
